@@ -6,15 +6,15 @@
 LSP-powered code intelligence, a built-in terminal, extensions, and fast project-wide tools for
 efficient editing.
 
-![Android CI](https://github.com/Rohitkushvaha01/Xed-Editor/actions/workflows/android.yml/badge.svg?event=push&style=for-the-badge)
-![Download count](https://img.shields.io/github/downloads/Xed-Editor/Xed-Editor/total?label=Downloads)
+![Android CI](https://github.com/Rohitkushvaha01/OmAn-Editor/actions/workflows/android.yml/badge.svg?event=push&style=for-the-badge)
+![Download count](https://img.shields.io/github/downloads/OmAn-Editor/omAn-Editor/total?label=Downloads)
 
 ---
 
 ## Website
 
-To learn more about Xed-Editor, including its documentation, extensions, themes, icon packs, and account-related features, visit the official website:
-https://xed-editor.app
+To learn more about OmAn-Editor, including its documentation, extensions, themes, icon packs, and account-related features, visit the official website:
+https://OmAn-editor.app
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6bKzcQRuef)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XedEditor)
