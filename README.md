@@ -1,4 +1,4 @@
-## Xed-Editor
+## OMAN-Editor
 
 <img src="/fastlane/metadata/android/en-US/images/icon.png" alt=" OM AN-Editor Icon" width="90" height="90" align="left"/>
 
