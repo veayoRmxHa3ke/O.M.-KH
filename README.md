@@ -1,6 +1,6 @@
 ## Xed-Editor
 
-<img src="/fastlane/metadata/android/en-US/images/icon.png" alt="Xed-Editor Icon" width="90" height="90" align="left"/>
+<img src="/fastlane/metadata/android/en-US/images/icon.png" alt=" OM AN-Editor Icon" width="90" height="90" align="left"/>
 
 **Xed-Editor** is a versatile and extensible text editor for Android, featuring syntax highlighting,
 LSP-powered code intelligence, a built-in terminal, extensions, and fast project-wide tools for
@@ -140,7 +140,7 @@ learn how you can get involved.
 
 ## Translations
 
-Help translate Xed-Editor! Visit [Weblate](https://hosted.weblate.org/engage/xed-editor/) to get
+Help translate OMAN-Editor! Visit [Weblate](https://hosted.weblate.org/engage/xed-editor/) to get
 started:
 
 <a href="https://hosted.weblate.org/engage/xed-editor/">
@@ -151,6 +151,6 @@ started:
 
 ## Contributors
 
-<a href="https://github.com/Xed-Editor/Xed-Editor/graphs/contributors">
+<a href="https://github.com/OMAN-Editor/Xed-Editor/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Xed-Editor/Xed-Editor" />
 </a>
