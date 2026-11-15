@@ -6,8 +6,8 @@
 LSP-powered code intelligence, a built-in terminal, extensions, and fast project-wide tools for
 efficient editing.
 
-![Android CI](https://github.com/Rohitkushvaha01/OmAn-Editor/actions/workflows/android.yml/badge.svg?event=push&style=for-the-badge)
-![Download count](https://img.shields.io/github/downloads/OmAn-Editor/omAn-Editor/total?label=Downloads)
+![Android CI](https://github.com/Rohitkushvaha01/An-GACKIN/actions/workflows/android.yml/badge.svg?event=push&style=for-the-badge)
+![Download count](https://img.shields.io/github/downloads/AN-HACKING/An-Hacking/total?label=Downloads)
 
 ---
 
