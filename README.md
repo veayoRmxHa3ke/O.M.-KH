@@ -1,12 +1,12 @@
-## OMAN-Editor
+## AN-HACKING 
 
-<img src="/fastlane/metadata/android/en-US/images/icon.png" alt=" OM AN-Editor Icon" width="90" height="90" align="left"/>
+<img src="/fastlane/metadata/android/en-US/images/icon.png" alt=" AN-HACKING Icon" width="90" height="90" align="left"/>
 
 **Xed-Editor** is a versatile and extensible text editor for Android, featuring syntax highlighting,
 LSP-powered code intelligence, a built-in terminal, extensions, and fast project-wide tools for
 efficient editing.
 
-![Android CI](https://github.com/Rohitkushvaha01/An-GACKIN/actions/workflows/android.yml/badge.svg?event=push&style=for-the-badge)
+![Android CI](https://github.com/AN-HACKING /An-GACKIN/actions/workflows/android.yml/badge.svg?event=push&style=for-the-badge)
 ![Download count](https://img.shields.io/github/downloads/AN-HACKING/An-Hacking/total?label=Downloads)
 
 ---
